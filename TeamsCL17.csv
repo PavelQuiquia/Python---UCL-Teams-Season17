@@ -1,0 +1,33 @@
+ranking,tournamentName,tournamentId,isOpta,tournamentRegionId,tournamentRegionName,tournamentRegionCode,regionCode,teamId,teamName,teamRegionName,apps,rating,shotsPerGame,redCard,yellowCard,possession,aerialWonPerGame,goal,name,seasonId,seasonName,passSuccess
+1,Champions League,12,True,250,Europe,ceu,es,52,Real Madrid,Spain,13,7.11,19.46153846153846,0.0,19.0,0.5352076923076923,10.692307692307692,36.0,Real Madrid,0,,0.871654175588865
+2,Champions League,12,True,250,Europe,ceu,de,37,Bayern Munich,Germany,10,7.06,19.3,2.0,16.0,0.6191,15.0,27.0,Bayern,0,,0.8856864383180173
+3,Champions League,12,True,250,Europe,ceu,es,65,Barcelona,Spain,10,7.03,13.1,1.0,25.0,0.6053400000000001,7.0,26.0,Barcelona,0,,0.8744136783174459
+4,Champions League,12,True,250,Europe,ceu,es,63,Atletico Madrid,Spain,12,7.01,13.25,0.0,21.0,0.4852,17.75,15.0,Atletico,0,,0.8014655760054533
+5,Champions League,12,True,250,Europe,ceu,de,44,Borussia Dortmund,Germany,10,6.99,15.4,0.0,19.0,0.59334,12.1,28.0,Borussia Dortmund,0,,0.8622265752530199
+6,Champions League,12,True,250,Europe,ceu,it,87,Juventus,Italy,13,6.98,13.846153846153847,2.0,27.0,0.5397153846153846,12.538461538461538,22.0,Juventus,0,,0.8545402789638485
+7,Champions League,12,True,250,Europe,ceu,dk,10,FC Copenhagen,Denmark,6,6.9399999999999995,11.166666666666666,1.0,7.0,0.5247333333333333,24.5,7.0,Copenhagen,0,,0.7914210870988867
+8,Champions League,12,True,250,Europe,ceu,fr,228,Lyon,France,6,6.9399999999999995,17.5,0.0,14.0,0.5139666666666667,11.0,5.0,Lyon,0,,0.8496902510596674
+9,Champions League,12,True,250,Europe,ceu,gb-eng,13,Arsenal,England,8,6.93,11.75,2.0,13.0,0.4905125,12.75,20.0,Arsenal,0,,0.8486857684110821
+10,Champions League,12,True,250,Europe,ceu,de,36,Bayer Leverkusen,Germany,8,6.93,13.25,0.0,16.0,0.506075,18.0,10.0,Leverkusen,0,,0.7682689636010003
+11,Champions League,12,True,250,Europe,ceu,es,67,Sevilla,Spain,8,6.92,13.0,2.0,15.0,0.5706,13.875,9.0,Sevilla,0,,0.8354910714285714
+12,Champions League,12,True,250,Europe,ceu,fr,304,Paris Saint-Germain,France,8,6.9,15.375,1.0,15.0,0.5407625,11.625,18.0,PSG,0,,0.8794388426128891
+13,Champions League,12,True,250,Europe,ceu,gb-eng,30,Tottenham,England,6,6.89,13.833333333333334,0.0,6.0,0.5910166666666666,15.833333333333334,6.0,Tottenham,0,,0.8321459105158164
+14,Champions League,12,True,250,Europe,ceu,gb-eng,167,Manchester City,England,8,6.88,13.125,2.0,14.0,0.5483125,11.625,18.0,Man City,0,,0.8581593927893738
+15,Champions League,12,True,250,Europe,ceu,fr,248,Monaco,France,12,6.88,12.166666666666666,0.0,28.0,0.463975,15.0,22.0,Monaco,0,,0.7893738140417458
+16,Champions League,12,True,250,Europe,ceu,pt,297,FC Porto,Portugal,8,6.83,13.25,2.0,15.0,0.498925,17.75,9.0,Porto,0,,0.8188768784603216
+17,Champions League,12,True,250,Europe,ceu,gb-eng,14,Leicester,England,10,6.8,10.7,0.0,19.0,0.42229,19.5,11.0,Leicester,0,,0.7098214285714286
+18,Champions League,12,True,250,Europe,ceu,pt,299,Benfica,Portugal,8,6.72,11.125,0.0,13.0,0.4579,9.375,11.0,Benfica,0,,0.795948763777182
+19,Champions League,12,True,250,Europe,ceu,ru,562,FC Rostov,Russia,6,6.67,5.5,0.0,10.0,0.37199999999999994,19.0,6.0,FC Rostov,0,,0.6545358649789029
+20,Champions League,12,True,250,Europe,ceu,nl,129,PSV Eindhoven,Netherlands,6,6.66,9.333333333333334,0.0,6.0,0.44726666666666665,20.666666666666668,4.0,PSV Eindhoven,0,,0.8012005649717514
+21,Champions League,12,True,250,Europe,ceu,it,276,Napoli,Italy,8,6.62,13.5,0.0,10.0,0.5242375,11.0,13.0,Napoli,0,,0.8549078439777111
+22,Champions League,12,True,250,Europe,ceu,ua,350,Dynamo Kyiv,Ukraine,6,6.62,11.166666666666666,1.0,13.0,0.50465,9.166666666666666,8.0,Dynamo Kyiv,0,,0.835348506401138
+23,Champions League,12,True,250,Europe,ceu,de,134,Borussia M.Gladbach,Germany,6,6.61,9.5,2.0,8.0,0.41445,8.333333333333334,5.0,Borussia M.Gladbach,0,,0.7935606060606061
+24,Champions League,12,True,250,Europe,ceu,pt,296,Sporting CP,Portugal,6,6.61,12.0,2.0,14.0,0.4894166666666666,17.333333333333332,5.0,Sporting,0,,0.824633230979188
+25,Champions League,12,True,250,Europe,ceu,ru,847,CSKA Moscow,Russia,6,6.61,8.333333333333334,0.0,7.0,0.41163333333333335,15.666666666666666,5.0,CSKA Moscow,0,,0.7247418051189941
+26,Champions League,12,True,250,Europe,ceu,tr,133,Besiktas,Turkey,6,6.5600000000000005,9.333333333333334,2.0,13.0,0.4919166666666666,12.666666666666666,9.0,Besiktas,0,,0.8178152492668622
+27,Champions League,12,True,250,Europe,ceu,bg,9449,Ludogorets Razgrad,Bulgaria,6,6.55,6.5,0.0,9.0,0.4633333333333334,8.5,6.0,Ludogorets Razgrad,0,,0.8389610389610389
+28,Champions League,12,True,250,Europe,ceu,gb-sct,103,Celtic,Scotland,6,6.49,9.0,0.0,8.0,0.4479833333333334,9.5,5.0,Celtic,0,,0.8284241531664213
+29,Champions League,12,True,250,Europe,ceu,be,124,Club Bruges,Belgium,6,6.47,8.5,0.0,14.0,0.4886166666666667,20.666666666666668,2.0,Club Bruges,0,,0.7881574108127988
+30,Champions League,12,True,250,Europe,ceu,ch,401,FC Basel 1893,Switzerland,6,6.43,10.333333333333334,1.0,11.0,0.4255333333333333,9.333333333333334,3.0,FC Basel 1893,0,,0.8044846577498033
+31,Champions League,12,True,250,Europe,ceu,pl,1030,Legia Warszawa,Poland,6,6.42,9.833333333333334,0.0,15.0,0.3990666666666667,9.166666666666666,9.0,Legia Warszawa,0,,0.7862254025044723
+32,Champions League,12,True,250,Europe,ceu,hr,684,Dinamo Zagreb,Croatia,6,6.32,6.0,1.0,11.0,0.36261666666666664,8.166666666666666,0.0,Dinamo Zagreb,0,,0.7387063655030801
